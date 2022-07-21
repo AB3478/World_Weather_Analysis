@@ -20,7 +20,15 @@ To create a new DataFrame containing updated weather data, I first generated a s
 ![](https://github.com/AB3478/World_Weather_Analysis/blob/c1e6f9368d70c7d4b2b955e81495935747910ce4/Resources/Weather_Database.png)
 
 ## Part 2 - Create a Customer Travel Destinations Map
-I then used input statements to retrieve customer weather preferences, using those inputs to identify potential travel destinations and nearby hotels. The following map highlights those desitnations and includes a layer map with pop-up markers including additional city and hotel-related details.
+I added input from beta tester's regarding their weather preferences to identify potential travel destinations and nearby hotels. The following map highlights those desitnations and includes a layer map with pop-up markers including additional city and hotel-related details.
 
 ![](https://github.com/AB3478/World_Weather_Analysis/blob/66622595d823d5fda85ed385e3db6d7c7358e48a/Weather_Database/WeatherPy_vacation_map.png)
+
 ## Part 3 - Create a Travel Itinerary Map
+Beta testers chose four cities from the vacation map that other customers might want to visit, including Sanary-Sur-Mer, France, Mantua, Florence, and Sestri Levante, Italy. To map this Mediterranean vacation, a directions layer map was created with a starting and ending city.
+
+![](https://github.com/AB3478/World_Weather_Analysis/blob/b165a06554762cabc72d03e8cfda1e2a9d367f13/Vacation_Itinerary/WeatherPy_travel_map.png)
+
+The marker layer map was updated to provide potential cusotmers with additional details for the four cities included on the Mediterranean vacation itinerary.
+
+![]
