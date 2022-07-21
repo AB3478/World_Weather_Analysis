@@ -25,10 +25,10 @@ I added input from beta tester's regarding their weather preferences to identify
 ![](https://github.com/AB3478/World_Weather_Analysis/blob/66622595d823d5fda85ed385e3db6d7c7358e48a/Weather_Database/WeatherPy_vacation_map.png)
 
 ## Part 3 - Create a Travel Itinerary Map
-Beta testers chose four cities from the vacation map that other customers might want to visit, including Sanary-Sur-Mer, France, Mantua, Florence, and Sestri Levante, Italy. To map this Mediterranean vacation, a directions layer map was created with a starting and ending city.
+Beta testers chose four cities, near the Mediterranean coast, from the vacation map that other customers might want to visit. A directions layer map was created with Sanary-Sur-Mer, France as the starting and ending point, with stops in Mantua, Florence, and Sestri Levante, Italy along the way.
 
 ![](https://github.com/AB3478/World_Weather_Analysis/blob/b165a06554762cabc72d03e8cfda1e2a9d367f13/Vacation_Itinerary/WeatherPy_travel_map.png)
 
-Finally, the marker layer map was updated to provide potential customers with additional details for the four cities included on the Mediterranean vacation itinerary.
+Finally, the marker layer map was updated to provide customers with additional details for the four cities included on the Mediterranean vacation itinerary.
 
 ![](https://github.com/AB3478/World_Weather_Analysis/blob/8a6fff20c9ec5cab2190b0d123ead1e9a51c172a/Vacation_Itinerary/Weather_travel_map_markers.png)
