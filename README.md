@@ -17,7 +17,7 @@ To create a new DataFrame containing updated weather data, I first generated a s
  - Wind speed
  - Weather description
 
-![](https://github.com/AB3478/World_Weather_Analysis/blob/c1e6f9368d70c7d4b2b955e81495935747910ce4/Resources/Weather_Database.png)
+![](https://github.com/AB3478/World_Weather_Analysis/blob/0826a1a117b25eacb0b9e28173c8ed5c8b3f7680/Weather_Database/Weather_Database.png)
 
 ## Part 2 - Create a Customer Travel Destinations Map
 I added input from beta tester's regarding their weather preferences to identify potential travel destinations and nearby hotels. The following map highlights those destinations and includes a layer map with pop-up markers including additional city and hotel-related details.
