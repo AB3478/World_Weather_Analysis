@@ -29,6 +29,6 @@ Beta testers chose four cities from the vacation map that other customers might 
 
 ![](https://github.com/AB3478/World_Weather_Analysis/blob/b165a06554762cabc72d03e8cfda1e2a9d367f13/Vacation_Itinerary/WeatherPy_travel_map.png)
 
-The marker layer map was updated to provide potential customers with additional details for the four cities included on the Mediterranean vacation itinerary.
+Finally, the marker layer map was updated to provide potential customers with additional details for the four cities included on the Mediterranean vacation itinerary.
 
 ![](https://github.com/AB3478/World_Weather_Analysis/blob/8a6fff20c9ec5cab2190b0d123ead1e9a51c172a/Vacation_Itinerary/Weather_travel_map_markers.png)
